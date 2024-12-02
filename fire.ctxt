@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=fire
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ fire\ here.\r\n\ \r\n
+comment1.params=s\ idx
+comment1.target=fire(int,\ int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ fire\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ animate()
+comment4.params=
+comment4.target=void\ touchFire()
+comment5.params=s\ idx
+comment5.target=greenfoot.GreenfootImage\ side(int,\ int)
+numComments=6

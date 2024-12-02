@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=PlayAgain
+comment0.text=\r\n\ PlayAgain\ button\ functionality.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ PlayAgain\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=level
+comment2.target=void\ setCurrentLevel(int)
+comment2.text=\r\n\ Set\ the\ current\ level\ where\ the\ player\ is.\r\n
+comment3.params=
+comment3.target=void\ restartLevel()
+comment3.text=\r\n\ Restart\ the\ level\ based\ on\ where\ the\ player\ died.\r\n
+numComments=4
